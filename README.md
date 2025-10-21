@@ -18,7 +18,6 @@ The goal is to provide **actionable insights** for HR teams to implement targete
 
 This visualization shows the most influential factors driving employee attrition, derived from the trained machine learning model.
 
-**⚠️ IMPORTANT:** Replace `path/to/your/screenshot.png` with your actual file path (e.g., `screenshots/feature_importance.png`).
 
 ![Feature Importance for Attrition Prediction](screenshots/Screenshot%202025-10-21%20083115.png)
 
