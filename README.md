@@ -20,9 +20,7 @@ This visualization shows the most influential factors driving employee attrition
 
 **⚠️ IMPORTANT:** Replace `path/to/your/screenshot.png` with your actual file path (e.g., `screenshots/feature_importance.png`).
 
-![Feature Importance for Attrition Prediction](screenshots/Screenshot 2025-10-21 083115.png)
-
----
+![Feature Importance for Attrition Prediction](screenshots/Screenshot%202025-10-21%20083115.png)
 
 ## 🛠️ Technology Stack
 
