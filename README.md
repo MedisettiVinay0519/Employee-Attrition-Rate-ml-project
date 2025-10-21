@@ -40,7 +40,7 @@ This visualization shows the most influential factors driving employee attrition
 
 1.  **Clone the repository:**
     ```bash
-    git clone [Your Repository URL]
+    git clone https://github.com/MedisettiVinay0519/Employee-Attrition-Rate-ml-project/tree/main
     ```
 2.  **Install dependencies:**
     ```bash
